@@ -1,0 +1,77 @@
+commit f45a6442cd35784e85f5505eff39d590bd6a3b62
+Author: EdmundC <mayday77@gmail.com>
+Date:   Thu Mar 17 17:38:07 2016 +0800
+
+    Modified comments and cleaning up for submission
+
+commit 336489f89eb4e451f29646723bf1a229abc6bfc9
+Author: EdmundC <mayday77@gmail.com>
+Date:   Thu Mar 17 17:30:30 2016 +0800
+
+    Change the save file part for both product and brand
+
+commit b679a31f49d91610b09b8bc5f67e122d3bbe9401
+Author: EdmundC <mayday77@gmail.com>
+Date:   Thu Mar 17 16:57:36 2016 +0800
+
+    Completed Brand Section
+
+commit 92ad80931d04c79d6d1f84c7b60ef868bf6c8280
+Author: EdmundC <mayday77@gmail.com>
+Date:   Thu Mar 17 14:59:38 2016 +0800
+
+    Further refining tasks/subtasks for Production section
+
+commit 9c4255e9b706133fcc2e9f42e6f4ebc6135933ef
+Author: EdmundC <mayday77@gmail.com>
+Date:   Thu Mar 17 14:36:37 2016 +0800
+
+    Completed Product portion
+
+commit a80256898cf66c682a2e46a3753946b2d73594af
+Author: EdmundC <mayday77@gmail.com>
+Date:   Thu Mar 17 00:00:14 2016 +0800
+
+    Added Ascii Art for Headers
+
+commit 2e66b65f14f2fb501449d89cd5290c1d999d956a
+Author: EdmundC <mayday77@gmail.com>
+Date:   Wed Mar 16 23:58:40 2016 +0800
+
+    Reintialize rbnd-toycity-part2-master
+
+commit 4e4980447af4beeed43fc1b847820099048a9190
+Author: EdmundC <mayday77@gmail.com>
+Date:   Wed Mar 16 15:59:00 2016 +0800
+
+    Initial Commit for toycity part 2
+
+commit 1d5aaf38e92ae5b9dcd4501618ba05af6bf822e5
+Author: EdmundC <mayday77@gmail.com>
+Date:   Wed Mar 16 15:53:57 2016 +0800
+
+    remove files
+
+commit 332616ee4dbf8ea455b60f8317e640dcf8580c4f
+Author: EdmundC <mayday77@gmail.com>
+Date:   Wed Mar 16 15:48:46 2016 +0800
+
+    added new lines
+
+commit 752909c6599f7b64427ab29ca0b51280eb5b0eb3
+Author: EdmundC <mayday77@gmail.com>
+Date:   Wed Mar 16 15:46:19 2016 +0800
+
+    testing2
+
+commit 1911f94535ec240c6c8cb6ab0358e20ebc6620dd
+Author: EdmundC <mayday77@gmail.com>
+Date:   Wed Mar 16 15:45:59 2016 +0800
+
+    Testing
+
+commit cd972211a739771bac4761f9d1fe25f7c3815ba8
+Author: EdmundC <mayday77@gmail.com>
+Date:   Wed Mar 16 15:33:46 2016 +0800
+
+    Initial commit
